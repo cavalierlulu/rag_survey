@@ -17,7 +17,7 @@ This repository is dedicated to curating high-quality papers, resources, and too
 ### LLM-based
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **Self-RAG** : LLM-based Retrieval by generating and reflecting on retrieved passages | [Paper](https://arxiv.org/abs/2310.11511), [Tweet](https://selfrag.github.io/) |
+| 1) **Self-RAG** : LLM-based Retrieval by generating and reflecting on retrieved passages | [Paper](https://arxiv.org/abs/2310.11511), [Github](https://selfrag.github.io/) |
 
 ## RAG-tools
 | **Paper**  | **Links** |
