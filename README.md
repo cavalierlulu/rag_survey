@@ -27,6 +27,7 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 8) **REPLUG** : Retrieval-Augmented Black-Box Language Models | [Paper](https://arxiv.org/abs/2301.12652)|
 | 9) Surface-Based Retrieval Reduces Perplexity of Retrieval-Augmented Language Models | [Paper](https://arxiv.org/abs/2305.16243), [Github](https://github.com/edoost/retro_bm25)|
 | 10) Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System | [Paper](https://arxiv.org/pdf/2310.08877v2.pdf), [Github](https://github.com/shenwzh3/mk-tod)|
+| 11) Beam Retrieval: General End-to-End Retrieval for Multi-Hop Question Answering | [Paper](https://arxiv.org/pdf/2308.08973.pdf), [Github](https://github.com/canghongjian/beam_retriever)
 
 ## RAG-tools
 | **Paper**  | **Links** |
