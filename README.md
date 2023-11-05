@@ -29,6 +29,11 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 10) Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System | [Paper](https://arxiv.org/pdf/2310.08877v2.pdf), [Github](https://github.com/shenwzh3/mk-tod)|
 | 11) Beam Retrieval: General End-to-End Retrieval for Multi-Hop Question Answering | [Paper](https://arxiv.org/pdf/2308.08973.pdf), [Github](https://github.com/canghongjian/beam_retriever)
 
+### Language Agents
+| **Paper** | **Links** |
+| ------------- | ------------- |
+| 1) Cognitive Architectures for Language Agents | [Paper](https://arxiv.org/pdf/2309.02427.pdf), [Github](https://github.com/ysymyth/awesome-language-agents)
+
 ## RAG-tools
 | **Paper**  | **Links** |
 | ------------- | ------------- |
