@@ -1,4 +1,8 @@
-# RAG (Retrieved-augmented generation) for LLM: A Curated Collection
+<h1 align="center">
+<br>
+RAG (Retrieved-Augmented Generation) for LLM: <p></p>
+A Curated Collection
+</h1>
 
 This repository is dedicated to curating high-quality papers, resources, and tools related to RAG in the context of Large Language Models (LLM). RAG bridges the gap between retrieval-based and generation-based methods, offering a promising approach for knowledge-intensive tasks.
 
@@ -33,6 +37,11 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | **Paper** | **Links** |
 | ------------- | ------------- |
 | 1) Cognitive Architectures for Language Agents | [Paper](https://arxiv.org/pdf/2309.02427.pdf), [Github](https://github.com/ysymyth/awesome-language-agents)
+| 2) Generative Agents: Interactive Simulacra of Human Behavior <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](https://arxiv.org/pdf/2304.03442.pdf), [Github](https://github.com/joonspk-research/generative_agents)
+| 3) CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing <p> (grounding, reasoning, retrieval) </p> | [Paper](https://arxiv.org/pdf/2305.11738.pdf), [Github](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)
+| 4) Voyager: An Open-Ended Embodied Agent with Large Language Models] <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](http://arxiv.org/abs/2305.16291), [Github](https://github.com/MineDojo/Voyager)
+| 5) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs <p> (grounding, reasoning, retrieval) </p> | [Paper](http://arxiv.org/abs/2307.16789), [Github](https://github.com/OpenBMB/ToolBench)
+| 6) ExpeL: LLM Agents Are Experiential Learners <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](https://arxiv.org/abs/2308.10144)
 
 ## RAG-tools
 | **Paper**  | **Links** |
@@ -48,6 +57,8 @@ We welcome contributions! If you come across a relevant paper or resource that s
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cavalierlulu/rag_survey&type=Date)](https://star-history.com/#cavalierlulu/rag_survey)
 
+## References
 
+- CoALA: Awesome Language Agents: [Github](https://github.com/ysymyth/awesome-language-agents)
 
 **[⬆ Back to ToC](#table-of-contents)**
