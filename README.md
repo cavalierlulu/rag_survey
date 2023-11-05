@@ -39,9 +39,10 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 1) Cognitive Architectures for Language Agents | [Paper](https://arxiv.org/pdf/2309.02427.pdf), [Github](https://github.com/ysymyth/awesome-language-agents)
 | 2) Generative Agents: Interactive Simulacra of Human Behavior <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](https://arxiv.org/pdf/2304.03442.pdf), [Github](https://github.com/joonspk-research/generative_agents)
 | 3) CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing <p> (grounding, reasoning, retrieval) </p> | [Paper](https://arxiv.org/pdf/2305.11738.pdf), [Github](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)
-| 4) Voyager: An Open-Ended Embodied Agent with Large Language Models] <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](http://arxiv.org/abs/2305.16291), [Github](https://github.com/MineDojo/Voyager)
+| 4) Voyager: An Open-Ended Embodied Agent with Large Language Models <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](http://arxiv.org/abs/2305.16291), [Github](https://github.com/MineDojo/Voyager)
 | 5) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs <p> (grounding, reasoning, retrieval) </p> | [Paper](http://arxiv.org/abs/2307.16789), [Github](https://github.com/OpenBMB/ToolBench)
 | 6) ExpeL: LLM Agents Are Experiential Learners <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](https://arxiv.org/abs/2308.10144)
+| 7) Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](http://arxiv.org/abs/2308.09830)
 
 ## RAG-tools
 | **Paper**  | **Links** |
