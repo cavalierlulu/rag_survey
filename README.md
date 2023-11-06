@@ -32,6 +32,7 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 9) Surface-Based Retrieval Reduces Perplexity of Retrieval-Augmented Language Models | [Paper](https://arxiv.org/abs/2305.16243), [Github](https://github.com/edoost/retro_bm25)|
 | 10) Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System | [Paper](https://arxiv.org/pdf/2310.08877v2.pdf), [Github](https://github.com/shenwzh3/mk-tod)|
 | 11) Beam Retrieval: General End-to-End Retrieval for Multi-Hop Question Answering | [Paper](https://arxiv.org/pdf/2308.08973.pdf), [Github](https://github.com/canghongjian/beam_retriever)
+| 12) Retrieval-Generation Synergy Augmented Large Language Models | [Paper](https://arxiv.org/pdf/2310.05149.pdf)
 
 ### Language Agents
 | **Paper** | **Links** |
