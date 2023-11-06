@@ -50,7 +50,7 @@ This repository is dedicated to curating high-quality papers, resources, and too
 ### Benchmarks
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **RAGAS**: Automated Evaluation of Retrieval Augmented Generation | [Paper](https://arxiv.org/abs/2309.15217), [Github](https://github.com/ explodinggradients/ragas) |
+| 1) **RAGAS**: Automated Evaluation of Retrieval Augmented Generation | [Paper](https://arxiv.org/abs/2309.15217) |
 | 2) Benchmarking Large Language Models in Retrieval-Augmented Generation | [Paper](https://arxiv.org/abs/2309.01431) |
 
 
