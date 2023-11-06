@@ -33,6 +33,29 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 10) Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System | [Paper](https://arxiv.org/pdf/2310.08877v2.pdf), [Github](https://github.com/shenwzh3/mk-tod)|
 | 11) Beam Retrieval: General End-to-End Retrieval for Multi-Hop Question Answering | [Paper](https://arxiv.org/pdf/2308.08973.pdf), [Github](https://github.com/canghongjian/beam_retriever)
 | 12) Retrieval-Generation Synergy Augmented Large Language Models | [Paper](https://arxiv.org/pdf/2310.05149.pdf)
+| 13) Enabling Large Language Models to Generate Text with Citations | [Paper](https://arxiv.org/abs/2305.14627), [Github](https://github.com/princeton-nlp/ALCE) |
+| 14) Improving Language Models by Retrieving From Trillions of Tokens | [Paper](https://arxiv.org/abs/2112.04426) |
+| 15) Internet-Augmented Language Models through Few-Shot Prompting for Open-Domain Question Answering | [Paper](https://arxiv.org/abs/2203.05115) |
+| 16) Rethinking with Retrieval: Faithful Large Language Model Inference | [Paper](https://arxiv.org/abs/2301.00303) |
+| 17) Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions | [Paper](https://arxiv.org/abs/2212.10509)  |
+| 18) Active Retrieval Augmented Generation | [Paper](https://arxiv.org/abs/2305.06983) |
+| 19) Retrieve Anything To Augment Large Language Models | [Paper](https://arxiv.org/abs/2310.07554) |
+| 20) **ReAct**: Synergizing Reasoning and Acting in Language Models | [Paper](https://arxiv.org/abs/2210.03629) |
+| 21) Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback | [Paper](https://arxiv.org/abs/2302.12813) |
+| 22) Teaching Language Models to Support Answers with Verified Quotes | [Paper](https://arxiv.org/abs/2203.11147) |
+| 23) Augmented Language Models: a Survey | [Paper](https://arxiv.org/abs/2302.07842) |
+
+
+
+### Benchmarks
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **RAGAS**: Automated Evaluation of Retrieval Augmented Generation | [Paper](https://arxiv.org/abs/2309.15217), [Github](https://github.com/ explodinggradients/ragas) |
+| 2) Benchmarking Large Language Models in Retrieval-Augmented Generation | [Paper](https://arxiv.org/abs/2309.01431) |
+
+
+
+
 
 ### Language Agents
 | **Paper** | **Links** |
