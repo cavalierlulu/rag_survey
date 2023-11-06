@@ -1,5 +1,5 @@
-** ICML:International Conference on Machine Learning
-** IJCAI:International Joint Conferences on Artificial Intelligence
+- ** ICML:International Conference on Machine Learning
+- ** IJCAI:International Joint Conferences on Artificial Intelligence
 ** JAIR:Journal of Artificial Intelligence Research
 ** ACL 2023:The Association for Computational Linguistics 2023
 ** JMLR: Journal of Machine Learning Research
