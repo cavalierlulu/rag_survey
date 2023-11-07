@@ -6,16 +6,25 @@ A Curated Collection
 
 This repository is dedicated to curating high-quality papers, resources, and tools related to RAG in the context of Large Language Models (LLM). RAG bridges the gap between retrieval-based and generation-based methods, offering a promising approach for knowledge-intensive tasks.
 
-## Updates
-
-- [2023-11-03] Repo initialization
-
 ## Table of Content
 
+- [Benchmarks](#Benchmarks)
+- [Tutorials](#Tutorials)
 - [Papers](#RAG-papers)
   - [LLM-based](#LLM-based)
-- [Tools](#RAG-tools)
-  
+  - [Language Agents](#Language-Agents)
+- [Related References](#Related-References)
+
+### Benchmarks
+| **Name**  | **Links** |
+| ------------- | ------------- |
+| 1) **RAGAS**: Automated Evaluation of Retrieval Augmented Generation | [Paper](https://arxiv.org/abs/2309.15217) |
+| 2) Benchmarking Large Language Models in Retrieval-Augmented Generation | [Paper](https://arxiv.org/abs/2309.01431) |
+
+## Tutorials
+| **Name**  | **Links** |
+| ------------- | ------------- |
+| 1) ACL 2023 Tutorial: Retrieval-based Language Models and Applications| [Web](https://acl2023-retrieval-lm.github.io/), [Github](https://github.com/ACL2023-Retrieval-LM/ACL2023-Retrieval-LM.github.io) |
 
 ## RAG-papers
 ### LLM-based
@@ -48,17 +57,6 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 25) Retrieval-Augmented Multimodal Language Modeling |  [Paper](https://arxiv.org/abs/2211.12561) |
 | 26) RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING |  [Paper](https://arxiv.org/pdf/2310.01352.pdf) |
 | 27) Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT |  [Paper](http://www.ifmlab.org/files/paper/graph_toolformer.pdf) |
-| 28) ACL 2023 Tutorial:Retrieval-based Language Models and Applications| [Web](https://acl2023-retrieval-lm.github.io/), [Github](https://github.com/ACL2023-Retrieval-LM/ACL2023-Retrieval-LM.github.io) |
-
-### Benchmarks
-| **Paper**  | **Links** |
-| ------------- | ------------- |
-| 1) **RAGAS**: Automated Evaluation of Retrieval Augmented Generation | [Paper](https://arxiv.org/abs/2309.15217) |
-| 2) Benchmarking Large Language Models in Retrieval-Augmented Generation | [Paper](https://arxiv.org/abs/2309.01431) |
-
-
-
-
 
 ### Language Agents
 | **Paper** | **Links** |
@@ -71,11 +69,9 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 6) ExpeL: LLM Agents Are Experiential Learners <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](https://arxiv.org/abs/2308.10144)
 | 7) Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](http://arxiv.org/abs/2308.09830)
 
-## RAG-tools
-| **Paper**  | **Links** |
-| ------------- | ------------- |
-| 
+## Related References
 
+- CoALA: Awesome Language Agents: [Github](https://github.com/ysymyth/awesome-language-agents)
 
 ## Acknowledgement
 
@@ -84,9 +80,5 @@ We welcome contributions! If you come across a relevant paper or resource that s
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cavalierlulu/rag_survey&type=Date)](https://star-history.com/#cavalierlulu/rag_survey)
-
-## References
-
-- CoALA: Awesome Language Agents: [Github](https://github.com/ysymyth/awesome-language-agents)
 
 **[⬆ Back to ToC](#table-of-contents)**
