@@ -44,7 +44,8 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 21) Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback | [Paper](https://arxiv.org/abs/2302.12813) |
 | 22) Teaching Language Models to Support Answers with Verified Quotes | [Paper](https://arxiv.org/abs/2203.11147) |
 | 23) Augmented Language Models: a Survey | [Paper](https://arxiv.org/abs/2302.07842) |
-
+| 24) LeanDojo: Theorem Proving with Retrieval-Augmented Language Models |  [Paper](https://arxiv.org/abs/2306.15626) |
+| 25) Retrieval-Augmented Multimodal Language Modeling |  [Paper](https://arxiv.org/abs/2211.12561) |
 
 
 ### Benchmarks
