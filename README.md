@@ -81,4 +81,4 @@ We welcome contributions! If you come across a relevant paper or resource that s
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cavalierlulu/rag_survey&type=Date)](https://star-history.com/#cavalierlulu/rag_survey)
 
-**[⬆ Back to ToC](#table-of-contents)**
+**[⬆ Back to ToC](#Table-of-Content)**
