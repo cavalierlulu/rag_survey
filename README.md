@@ -46,7 +46,8 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 23) Augmented Language Models: a Survey | [Paper](https://arxiv.org/abs/2302.07842) |
 | 24) LeanDojo: Theorem Proving with Retrieval-Augmented Language Models |  [Paper](https://arxiv.org/abs/2306.15626) |
 | 25) Retrieval-Augmented Multimodal Language Modeling |  [Paper](https://arxiv.org/abs/2211.12561) |
-
+| 26) RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING |  [Paper](https://arxiv.org/pdf/2310.01352.pdf) |
+| 27) Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT |  [Paper](http://www.ifmlab.org/files/paper/graph_toolformer.pdf) |
 
 ### Benchmarks
 | **Paper**  | **Links** |
