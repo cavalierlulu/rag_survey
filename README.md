@@ -48,6 +48,7 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 25) Retrieval-Augmented Multimodal Language Modeling |  [Paper](https://arxiv.org/abs/2211.12561) |
 | 26) RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING |  [Paper](https://arxiv.org/pdf/2310.01352.pdf) |
 | 27) Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT |  [Paper](http://www.ifmlab.org/files/paper/graph_toolformer.pdf) |
+| 28) ACL 2023 Tutorial:Retrieval-based Language Models and Applications| [Web](https://acl2023-retrieval-lm.github.io/), [Github](https://github.com/ACL2023-Retrieval-LM/ACL2023-Retrieval-LM.github.io) |
 
 ### Benchmarks
 | **Paper**  | **Links** |
