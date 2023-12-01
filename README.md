@@ -57,7 +57,7 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 25) Retrieval-Augmented Multimodal Language Modeling |  [Paper](https://arxiv.org/abs/2211.12561) |
 | 26) RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING |  [Paper](https://arxiv.org/pdf/2310.01352.pdf) |
 | 27) Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT |  [Paper](http://www.ifmlab.org/files/paper/graph_toolformer.pdf) |
-
+| 28) Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In |  [Paper](https://aclanthology.org/2023.acl-long.136.pdf) , [Github](https://github.com/OpenMatch/Augmentation-Adapted-Retriever) |
 ### Language Agents
 | **Paper** | **Links** |
 | ------------- | ------------- |
