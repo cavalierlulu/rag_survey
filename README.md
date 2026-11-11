@@ -60,6 +60,9 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 28) Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In | [Paper](https://aclanthology.org/2023.acl-long.136.pdf), [Github](https://github.com/OpenMatch/Augmentation-Adapted-Retriever) |
 | 29) Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering | [Paper](https://arxiv.org/pdf/2309.17133.pdf), [Github](https://github.com/LinWeizheDragon/Retrieval-Augmented-Visual-Question-Answering) |
 | 30) Self-Knowledge Guided Retrieval Augmentation for Large Language Models | [Paper](https://arxiv.org/pdf/2310.05002.pdf) |
+| 31) **ExpandR**: Teaching Dense Retrievers Beyond Queries with LLM Guidance | [Paper](https://aclanthology.org/2025.emnlp-main.963/), [Github](https://github.com/NEUIR/ExpandR) |
+| 32) **ParamMute**: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation | [Paper](https://arxiv.org/abs/2502.15543), [Github](https://github.com/OpenBMB/ParamMute) |
+| 33) **SPARK**: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation | [Paper](https://arxiv.org/abs/2606.27786), [Github](https://github.com/OpenBMB/SPARK) |
 
 ### Language Agents
 | **Paper** | **Links** |
@@ -71,6 +74,7 @@ This repository is dedicated to curating high-quality papers, resources, and too
 | 5) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs <p> (grounding, reasoning, retrieval) </p> | [Paper](http://arxiv.org/abs/2307.16789), [Github](https://github.com/OpenBMB/ToolBench)
 | 6) ExpeL: LLM Agents Are Experiential Learners <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](https://arxiv.org/abs/2308.10144)
 | 7) Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis <p> (grounding, reasoning, retrieval, learning) </p> | [Paper](http://arxiv.org/abs/2308.09830)
+| 8) **ToolMaster**: Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction | [Paper](https://arxiv.org/abs/2601.12762), [Github](https://github.com/NEUIR/ToolMaster) |
 
 ## Related References
 
